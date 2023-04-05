@@ -27,9 +27,9 @@
 	</a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 	<a href="http://zalt.me">
 		<img alt="Mahmoud Zalt's Activity Graph"
 			 src="https://activity-graph.herokuapp.com/graph?username=mahmoudz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 	</a>
-</p>
+</p> -->

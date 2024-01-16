@@ -1,10 +1,4 @@
-<p align="center">
-	<a href="http://zalt.me">
-		<img alt="Mahmoud Zalt's Banner"
-			 src="https://github.com/Mahmoudz/Mahmoudz/blob/main/static/images/zalt-banner.png">
-	</a>
-</p>
-
+<!-- Welcome Message Section -->
 <p align="center">
 	<a href="http://zalt.me">
 		<img alt="Mahmoud Zalt's Welcome Message"
@@ -12,7 +6,15 @@
 	</a>
 </p>
 
+<!-- Banner Image Section -->
+<p align="center">
+	<a href="http://zalt.me">
+		<img alt="Mahmoud Zalt's Banner"
+			 src="https://github.com/Mahmoudz/Mahmoudz/blob/main/static/images/zalt-banner.png">
+	</a>
+</p>
 
+<!-- Streak Stats Section -->
 <p align="center">
 	<a href="http://zalt.me">
 		<img alt="Mahmoud Zalt's Streak Stats"
@@ -20,6 +22,7 @@
 	</a>
 </p>
 
+<!-- GitHub Stats Section -->
 <p align="center">
 	<a href="http://zalt.me">
 		<img alt="Mahmoud Zalt's Github Stats"
@@ -27,9 +30,54 @@
 	</a>
 </p>
 
-<!-- <p align="center">
-	<a href="http://zalt.me">
-		<img alt="Mahmoud Zalt's Activity Graph"
-			 src="https://activity-graph.herokuapp.com/graph?username=mahmoudz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
-	</a>
-</p> -->
+<!-- My Projects Section -->
+<h3>My (Top 5) Open Source Projects:</h3>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>🗒️ Description</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🍴 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/laradock/laradock"><b>Laradock</b></a></td>
+      <td>Full PHP development environment for Docker</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/laradock/laradock?style=flat-square&color=60d9fa"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/laradock/laradock?style=flat-square&color=60d9fa"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/apiato/apiato"><b>Apiato</b></a></td>
+      <td>PHP Framework for building scalable API's</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/apiato/apiato?style=flat-square&color=60d9fa"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/apiato/apiato?style=flat-square&color=60d9fa"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Mahmoudz/Porto"><b>Porto SAP</b></a></td>
+      <td>A Modern Software Architectural Pattern</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mahmoudz/Porto?style=flat-square&color=60d9fa"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Mahmoudz/Porto?style=flat-square&color=60d9fa"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vinelab/cdn"><b>Vinelab CDN</b></a></td>
+      <td>CDN Assets Manager Package for Laravel</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vinelab/cdn?style=flat-square&color=60d9fa"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vinelab/cdn?style=flat-square&color=60d9fa"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nextpack/nextpack"><b>NextPack</b></a></td>
+      <td>PHP & Laravel Packages Starter</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nextpack/nextpack?style=flat-square&color=60d9fa"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nextpack/nextpack?style=flat-square&color=60d9fa"/></td>
+    </tr>
+<!--     <tr>
+      <td><a href="https://github.com/Mahmoudz/fyber-php-sdk"><b>Fyber SDK</b></a></td>
+      <td>PHP SDK for the Fyber.com API</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mahmoudz/fyber-php-sdk?style=flat-square&color=60d9fa"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Mahmoudz/fyber-php-sdk?style=flat-square&color=60d9fa"/></td>
+    </tr> -->
+  </tbody>
+</table>

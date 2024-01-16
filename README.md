@@ -31,7 +31,7 @@
 </p>
 
 <!-- My Open Source Projects Section -->
-## My (Top 5) Open Source Projects:
+## My (Top 5) Open Source Projects
 
 <table>
   <thead align="center">
@@ -93,4 +93,10 @@
 <a href="https://stackoverflow.com/users/2538791/mahmoud-zalt">
   <img src="https://github-readme-stackoverflow.vercel.app/?userID=2538791&theme=dark" height="250">
 </a>
+
+<!-- Contact Info Section -->
+<!-- 
+## Let's connect
+<a href="https://twitter.com/Mahmoud_Zalt" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/main/topics/twitter/twitter.png" alt="Mahmoud Zalt" height="80" width="80" /></a>
+ -->
 

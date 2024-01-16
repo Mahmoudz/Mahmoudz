@@ -1,16 +1,16 @@
-<!-- Welcome Message Section -->
-<p align="center">
-	<a href="http://zalt.me">
-		<img alt="Mahmoud Zalt's Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Mahmoudz+GitHub+page+:)&center=true&width=450&height=55">
-	</a>
-</p>
-
 <!-- Banner Image Section -->
 <p align="center">
 	<a href="http://zalt.me">
 		<img alt="Mahmoud Zalt's Banner"
 			 src="https://github.com/Mahmoudz/Mahmoudz/blob/main/static/images/zalt-banner.png">
+	</a>
+</p>
+
+<!-- Welcome Message Section -->
+<p align="center">
+	<a href="http://zalt.me">
+		<img alt="Mahmoud Zalt's Welcome Message"
+			 src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Mahmoudz+GitHub+page+:)&center=true&width=450&height=55">
 	</a>
 </p>
 
@@ -30,8 +30,8 @@
 	</a>
 </p>
 
-<!-- My Projects Section -->
-<h3>My (Top 5) Open Source Projects:</h3>
+<!-- My Open Source Projects Section -->
+## My (Top 5) Open Source Projects:
 
 <table>
   <thead align="center">
@@ -45,7 +45,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/laradock/laradock"><b>Laradock</b></a></td>
-      <td>Full PHP development environment for Docker</td>
+      <td>PHP development environment for Docker</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/laradock/laradock?style=flat-square&color=60d9fa"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/laradock/laradock?style=flat-square&color=60d9fa"/></td>
     </tr>
@@ -81,3 +81,16 @@
     </tr> -->
   </tbody>
 </table>
+
+<!-- My Tech Stack Section -->
+## My Favorite Tech Stack
+
+[![My Stack](https://img.shields.io/badge/StackShare-My_Tech_Stack-cyan)](https://stackshare.io/Mahmoudz/web-stack)
+
+<!-- Stack Overflow Section -->
+## My Stack Overflow
+
+<a href="https://stackoverflow.com/users/2538791/mahmoud-zalt">
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=2538791&theme=dark" height="250">
+</a>
+

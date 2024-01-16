@@ -100,4 +100,4 @@
 <a href="https://twitter.com/Mahmoud_Zalt" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/main/topics/twitter/twitter.png" alt="Mahmoud Zalt" height="80" width="80" /></a>
  -->
 
-[![Mahmoud Zalt profile views](https://u8views.com/api/v1/github/profiles/1983984/views/day-week-month-total-count.svg)](https://u8views.com/github/Mahmoudz)
+[![Mahmoud Zalt profile views](https://u8views.com/api/v1/github/profiles/1983984/views/pixel.svg)](https://u8views.com/github/Mahmoudz)

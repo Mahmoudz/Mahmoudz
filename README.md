@@ -32,7 +32,7 @@
 
 <!-- My Open Source Projects Section -->
 
-## Open Source Projects
+## My Open Source Innovations
 
 <table>
   <thead align="center">
@@ -44,6 +44,12 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/sista-ai/ai-assistant-react"><b>AI Assistant</b></a></td>
+      <td>Voice AI Assistant for any ReactJS App</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/sista-ai/ai-assistant-react?style=flat-square&color=238636&label="/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/sista-ai/ai-assistant-react?style=flat-square&color=cc6600&label="/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/laradock/laradock"><b>Laradock</b></a></td>
       <td>PHP development environment for Docker</td>
@@ -63,10 +69,10 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Mahmoudz/Porto?style=flat-square&color=cc6600&label="/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Mahmoudz/awesome-topics"><b>Awesome Topics</b></a></td>
-      <td>A collection of awesome technical topics</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mahmoudz/awesome-topics?style=flat-square&color=238636&label="/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Mahmoudz/awesome-topics?style=flat-square&color=cc6600&label="/></td>
+      <td><a href="https://github.com/Vinelab/cdn"><b>Vinelab CDN</b></a></td>
+      <td>CDN Assets Manager Package for Laravel</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vinelab/cdn?style=flat-square&color=238636&label="/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vinelab/cdn?style=flat-square&color=cc6600&label="/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/nextpack/nextpack"><b>NextPack</b></a></td>
@@ -75,10 +81,10 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nextpack/nextpack?style=flat-square&color=cc6600&label="/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Vinelab/cdn"><b>Vinelab CDN</b></a></td>
-      <td>CDN Assets Manager Package for Laravel</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vinelab/cdn?style=flat-square&color=238636&label="/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vinelab/cdn?style=flat-square&color=cc6600&label="/></td>
+      <td><a href="https://github.com/Mahmoudz/awesome-topics"><b>Awesome Topics</b></a></td>
+      <td>A collection of awesome technical topics</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mahmoudz/awesome-topics?style=flat-square&color=238636&label="/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Mahmoudz/awesome-topics?style=flat-square&color=cc6600&label="/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Mahmoudz/fyber-php-sdk"><b>Fyber SDK</b></a></td>

@@ -62,12 +62,12 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Mahmoudz/Porto?style=flat-square&color=238636&label="/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Mahmoudz/Porto?style=flat-square&color=cc6600&label="/></td>
     </tr>
-    <tr>
+<!--     <tr>
       <td><a href="https://github.com/sista-ai/ai-assistant-react"><b>AI Assistant</b></a></td>
       <td>AI Voice Assistant for your Apps or Websites</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/sista-ai/ai-assistant-react?style=flat-square&color=238636&label="/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/sista-ai/ai-assistant-react?style=flat-square&color=cc6600&label="/></td>
-    </tr>
+    </tr> -->
     <tr>
       <td><a href="https://github.com/Vinelab/cdn"><b>Vinelab CDN</b></a></td>
       <td>CDN Assets Manager Package for Laravel</td>

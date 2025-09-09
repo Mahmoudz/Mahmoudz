@@ -10,7 +10,7 @@
 <p align="center">
 	<a href="https://zalt.me">
 		<img alt="Mahmoud Zalt's Banner"
-			 src="media/zalt-banner-1.png">
+			 src="media/zalt-banner-2.png">
 	</a>
 </p>
 

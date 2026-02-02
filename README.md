@@ -121,12 +121,12 @@
 
 <!-- Sponsor Section -->
 <p align="center">
-  <a href="https://smart.sista.ai/?utm_source=github&utm_medium=zalt_profile&utm_campaign=icon" target="_blank">
-    <img src="https://smart.sista.ai/images/logo/sista-ai-icon.png" alt="Sista AI Logo" height="300"/>
+  <a href="https://sista.ai/?utm_source=github&utm_medium=zalt_profile&utm_campaign=icon" target="_blank">
+    <img src="https://www.sista.ai/images/logo/sista-ai-icon.png" alt="Sista AI Logo" height="300"/>
   </a>
 </p>
 
 <p align="center">
-   <a href="https://smart.sista.ai/?utm_source=github&utm_medium=zalt_profile&utm_campaign=text"><b>Sista AI</b></a> — Plug-and-Play <b>AI Agents</b> for <i>Apps & Websites</i>
+   <a href="https://sista.ai/?utm_source=github&utm_medium=zalt_profile&utm_campaign=text"><b>Sista AI</b></a> — Building cutting-edge AI systems so people can be free!
 </p>
 

@@ -1,6 +1,6 @@
 <!-- Welcome Message Section -->
 <p align="center">
-	<a href="http://zalt.me">
+	<a href="https://zalt.me">
 		<img alt="Mahmoud Zalt's Welcome Message"
 			 src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Zalt's+GitHub+Profile+:)&color=33FF33&center=true&vCenter=true&width=550&height=50&pause=2000">
 	</a>
@@ -19,6 +19,8 @@
     <code>while ('Zalt' == ALIVE) { learn(*); code(24, 7); live(0xEXP10RE); }</code>
 </p>
 
+---
+
 <!-- My Git Footprint Section -->
 ## ✨ My Git Footprint
 
@@ -26,6 +28,37 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudz&bg_color=0D1117&color=33FF33&line=fc7f00&point=33FF33&hide_border=true">
 </p>
+
+# 🚀 Explore
+
+<p align="center">
+  <a href="https://zalt.me/projects"><b>All Projects</b></a> •
+  <a href="https://zalt.me/projects?search=ai"><b>AI Projects</b></a> •
+  <a href="https://zalt.me/tools"><b>Free AI Tools</b></a> •
+  <a href="https://zalt.me/blog"><b>Engineering Blog</b></a> •
+  <a href="https://zalt.me/services"><b>Tech Services</b></a>
+</p>
+
+---
+
+# 🧠 Currently Building
+
+## 🤖 AI Agents Workforce
+
+An enterprise-grade multi-tenant SaaS platform for deploying and managing AI agents at scale.
+
+- Durable workflow engine  
+- Long-term memory  
+- Knowledge graphs + vector search  
+- 900+ integrations  
+- Voice + text across web and desktop  
+- Billing + analytics + admin  
+
+👉 https://zalt.me/projects/ai-agents-workforce
+
+---
+
+
 
 <!-- Streak Stats Section + GitHub Stats Section Side-by-Side -->
 <p align="center">
@@ -105,12 +138,30 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Mahmoudz/fyber-php-sdk?style=flat-square&color=238636&label="/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Mahmoudz/fyber-php-sdk?style=flat-square&color=cc6600&label="/></td>
     </tr>
+    <tr>
+      <td colspan="4" align="center">
+        👉 <a href="https://zalt.me/projects"><b>See more / closed-source projects</b></a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
+---
+
+<!-- AI Tools -->
+## 🔧 Free AI Tools
+
+<p align="center">
+  <a href="https://zalt.me/tools/free-ai-chat-online">Local AI Chat</a> •
+  <a href="https://zalt.me/tools/speech-to-text">Speech to Text</a> •
+  <a href="https://zalt.me/tools/text-to-speech">Text to Speech</a> •
+  <a href="https://zalt.me/tools/ai-vision-detector">Vision AI</a> •
+  <a href="https://zalt.me/tools/image-to-text">OCR</a>
+  <a href="https://zalt.me/tools">More AI Tools</a>
+</p>
+
 <!-- Let's Connect Section -->
 ## 🌍 Let's Connect
-
 
 [![Website: zalt.me](https://img.shields.io/badge/Website-https://zalt.me-009b00?style=for-the-badge&logo=chainlink&logoColor=white)](https://zalt.me/)
 
@@ -129,4 +180,3 @@
 <p align="center">
    <a href="https://sista.ai/?utm_source=github&utm_medium=zalt_profile&utm_campaign=text"><b>Sista AI</b></a> — Building cutting-edge AI systems so people can be free!
 </p>
-

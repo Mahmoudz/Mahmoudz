@@ -45,16 +45,25 @@
 
 ## 🤖 AI Agents Workforce
 
-An enterprise-grade multi-tenant SaaS platform for deploying and managing AI agents at scale.
+A multi-tenant SaaS platform for deploying and managing AI agents at scale. 
 
-- Durable workflow engine  
-- Long-term memory  
+- Long-term episodic memory 
 - Knowledge graphs + vector search  
-- 900+ integrations  
-- Voice + text across web and desktop  
-- Billing + analytics + admin  
+- Durable & reliable workflow engine  
+- 1k+ integrations & tools
+- Voice + text + media files
+- Analytics + admin dashboards
 
-👉 https://zalt.me/projects/ai-agents-workforce
+👉 Try App https://hire.sista.ai
+
+Learn More https://zalt.me/projects/ai-agents-workforce
+
+<!-- Sista AI Banner -->
+<p align="center">
+  <a href="https://work.sista.ai">
+    <img alt="Sista AI — Hire teams of AI employees" src="https://work.sista.ai/site-assets/banners/v1-sista-banner-dark.png">
+  </a>
+</p>
 
 ---
 
@@ -163,7 +172,11 @@ An enterprise-grade multi-tenant SaaS platform for deploying and managing AI age
 <!-- Let's Connect Section -->
 ## 🌍 Let's Connect
 
+https://zalt.me/contact
+
 [![Website: zalt.me](https://img.shields.io/badge/Website-https://zalt.me-009b00?style=for-the-badge&logo=chainlink&logoColor=white)](https://zalt.me/)
+
+
 
 <!-- 
 | Find Me Online | Stack Overflow |

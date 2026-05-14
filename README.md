@@ -43,7 +43,7 @@
 
 # 🧠 Currently Building
 
-## 🤖 AI Agents Workforce
+## 🤖 AI Agents Orchestration Platform
 
 A multi-tenant SaaS platform for deploying and managing AI agents at scale.
 
@@ -54,14 +54,14 @@ A multi-tenant SaaS platform for deploying and managing AI agents at scale.
 - Voice + text + media files
 - Analytics + admin dashboards
 
-👉 Try App https://hire.sista.ai
+👉 Try App [https://sistava.com](https://sistava.com)
 
-Learn More https://zalt.me/projects/ai-agents-workforce
+Learn More [https://zalt.me/projects/ai-workforce-platform](https://zalt.me/projects/ai-workforce-platform)
 
 <!-- Sista AI Banner -->
 <p align="center">
   <a href="https://sistava.com">
-    <img alt="Sista AI — Hire teams of AI employees" src="https://sistava.com/site-assets/banners/v1-sista-banner-dark.png">
+    <img alt="Sistava.com — Hire teams of AI employees" src="https://sistava.com/site-assets/banners/v1-sistava-banner-dark.png">
   </a>
 </p>
 

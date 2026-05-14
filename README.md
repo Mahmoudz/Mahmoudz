@@ -60,8 +60,8 @@ Learn More https://zalt.me/projects/ai-agents-workforce
 
 <!-- Sista AI Banner -->
 <p align="center">
-  <a href="https://work.sista.ai">
-    <img alt="Sista AI — Hire teams of AI employees" src="https://work.sista.ai/site-assets/banners/v1-sista-banner-dark.png">
+  <a href="https://sistava.com">
+    <img alt="Sista AI — Hire teams of AI employees" src="https://sistava.com/site-assets/banners/v1-sista-banner-dark.png">
   </a>
 </p>
 

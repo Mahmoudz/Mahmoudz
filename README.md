@@ -61,7 +61,7 @@ Learn More [https://zalt.me/projects/ai-workforce-platform](https://zalt.me/proj
 <!-- Sista AI Banner -->
 <p align="center">
   <a href="https://sistava.com">
-    <img alt="Sistava.com — Hire teams of AI employees" src="https://sistava.com/site-assets/banners/v1-sistava-banner-dark.png">
+    <img alt="Sistava.com — Hire teams of AI employees" src="https://sistava.com/site-assets/banners/sistava-banner-dark.png">
   </a>
 </p>
 

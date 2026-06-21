@@ -14,10 +14,11 @@
 	</a>
 </p>
 
-<!-- Fun Status Section -->
-<p align="center">
-    <code>while ('Zalt' == ALIVE) { learn(*); code(24, 7); live(0xEXP10RE); }</code>
-</p>
+<!-- Mantra Section -->
+ 
+```
+while ('Zalt' == ALIVE) { learn(*); code(24, 7); live(0xEXP10RE); }
+```	
 
 ---
 
@@ -31,13 +32,12 @@
 
 # 🚀 Explore
 
-<p align="center">
-  <a href="https://zalt.me/projects"><b>All Projects</b></a> •
-  <a href="https://zalt.me/projects?search=ai"><b>AI Projects</b></a> •
-  <a href="https://zalt.me/tools"><b>Free AI Tools</b></a> •
-  <a href="https://zalt.me/blog"><b>Engineering Blog</b></a> •
-  <a href="https://zalt.me/services"><b>Tech Services</b></a>
-</p>
+
+  <a href="https://zalt.me/projects"><b>My AI Projects</b></a> •
+  <a href="https://zalt.me/blog"><b>My Engineering Blog</b></a> •
+  <a href="https://zalt.me/tools"><b>My Free AI Tools</b></a> •
+  <a href="https://zalt.me/services"><b>My Tech Services</b></a>
+
 
 ---
 
@@ -64,6 +64,8 @@ Learn More [https://zalt.me/projects/ai-workforce-platform](https://zalt.me/proj
     <img alt="Sistava.com — Hire teams of AI employees" src="https://sistava.com/site-assets/banners/sistava-banner-dark.png">
   </a>
 </p>
+
+[![Mahmoud Zalt profile views](https://u8views.com/api/v1/github/profiles/1983984/views/day-week-month-total-count.svg)](https://u8views.com/github/Mahmoudz)
 
 ---
 
@@ -158,16 +160,30 @@ Learn More [https://zalt.me/projects/ai-workforce-platform](https://zalt.me/proj
 ---
 
 <!-- AI Tools -->
-## 🔧 Free AI Tools
+## 🔧 Free AI Tools for Everyone
 
-<p align="center">
+
   <a href="https://zalt.me/tools/free-ai-chat-online">Local AI Chat</a> •
   <a href="https://zalt.me/tools/speech-to-text">Speech to Text</a> •
   <a href="https://zalt.me/tools/text-to-speech">Text to Speech</a> •
   <a href="https://zalt.me/tools/ai-vision-detector">Vision AI</a> •
-  <a href="https://zalt.me/tools/image-to-text">OCR</a>
-  <a href="https://zalt.me/tools">More AI Tools</a>
-</p>
+  <a href="https://zalt.me/tools/image-to-text">OCR</a> •
+  <a href="https://zalt.me/tools"><b>Browse All</b></a>
+
+
+## 💼 Free AI Tools for Founders
+
+
+  <a href="https://sistava.com/en/free-ai-tools/business-plan-generator">Business Plan</a> •
+  <a href="https://sistava.com/en/free-ai-tools/marketing-plan-generator">Marketing Plan</a> •
+  <a href="https://sistava.com/en/free-ai-tools/elevator-pitch-generator">Elevator Pitch</a> •
+  <a href="https://sistava.com/en/free-ai-tools/privacy-policy-generator">Privacy Policy</a> •
+  <a href="https://sistava.com/en/free-ai-tools/performance-review-generator">Performance Review</a> •
+  <a href="https://sistava.com/en/free-ai-tools"><b>Browse All</b></a>
+
+
+
+
 
 <!-- Let's Connect Section -->
 ## 🌍 Let's Connect
@@ -183,7 +199,7 @@ https://zalt.me/contact
 |---|---|
 | [![Website: zalt.me](https://img.shields.io/badge/Visit%20my%20website-www.zalt.me-009b00?style=for-the-badge&logo=chainlink&logoColor=white)](https://zalt.me/) <br><br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudzalt/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mahmoud_Zalt) [![StackShare](https://img.shields.io/badge/StackShare-0690FA?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/Mahmoudz/) <br> [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mahmoud_zalt) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://mahmoud.hashnode.dev/) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mahmoudz/) <br> [![Daily.dev](https://img.shields.io/badge/Daily.dev-111?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://app.daily.dev/zalt) [![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Mahmoud-Zalt/) [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/orgs/laradock/members) <br> [![Docker Hub Personal](https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/mahmoudz) [![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=composer&logoColor=white)](https://packagist.org/users/Mahmoudz/) [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~zalt) <br> [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/@m_zalt) [![Indie Hackers](https://img.shields.io/badge/Indie%20Hackers-1E2432?style=for-the-badge&logo=indiehackers&logoColor=white)](https://www.indiehackers.com/zalt) [![F6S](https://img.shields.io/badge/F6S-0D83DD?style=for-the-badge)](https://www.f6s.com/member/mahmoudzalt) <br> [![Crunchbase](https://img.shields.io/badge/Crunchbase-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white)](https://www.crunchbase.com/person/mahmoud-zalt) [![MentorCruise](https://img.shields.io/badge/MentorCruise-2EC866?style=for-the-badge&logo=Handshake&logoColor=white)](https://mentorcruise.com/mentor/mahmoudzalt/) [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/mahmoudzalt) <br> [![Clarity.fm](https://img.shields.io/badge/Clarity.fm-4E9CAF?style=for-the-badge&logo=clarity&logoColor=white)](https://clarity.fm/zalt) [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010840df95cfa0979f) <br> [![CofoundersLab](https://img.shields.io/badge/CofoundersLab-008080?style=for-the-badge)](https://cofounderslab.com/profile/mahmoud-zalt-9djlz38pk5m) [![Codementor](https://img.shields.io/badge/Codementor-3C4858?style=for-the-badge&logo=codementor&logoColor=white)](https://www.codementor.io/@mahmoudz) | [![Mahmoud Zalt — Stack Overflow](https://github-readme-stackoverflow.vercel.app/?userID=2538791&theme=dark)](https://stackoverflow.com/users/2538791/mahmoud-zalt) | -->
 
-[![Mahmoud Zalt profile views](https://u8views.com/api/v1/github/profiles/1983984/views/day-week-month-total-count.svg)](https://u8views.com/github/Mahmoudz)
+
 
 <!-- Sponsor Section -->
 <p align="center">
@@ -192,8 +208,11 @@ https://zalt.me/contact
   </a>
 </p>
 
+
 <p align="center">
    <a href="https://sista.ai/?utm_source=github&utm_medium=zalt_profile&utm_campaign=text"><b>Sista AI</b></a> — Building cutting-edge AI systems so people can be free!
 </p>
+
+
 
 

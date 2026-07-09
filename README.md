@@ -33,13 +33,31 @@ while ('Zalt' == ALIVE) { learn(*); code(24, 7); live(0xEXP10RE); }
 # 🚀 Explore
 
 
-  <a href="https://zalt.me/projects"><b>My AI Projects</b></a> •
-  <a href="https://zalt.me/blog"><b>My Engineering Blog</b></a> •
-  <a href="https://zalt.me/tools"><b>My Free AI Tools</b></a> •
-  <a href="https://zalt.me/services"><b>My Tech Services</b></a>
+  <a href="https://zalt.me/projects"><b>AI Projects</b></a> •
+  <a href="https://zalt.me/guides"><b>Guides & Handbook</b></a> •
+  <a href="https://zalt.me/case-studies"><b>Case Studies</b></a> •
+  <a href="https://zalt.me/blog"><b>Engineering Blog</b></a> •
+  <a href="https://zalt.me/tools"><b>Free AI Tools</b></a> •
+  <a href="https://zalt.me/services"><b>Tech Services</b></a>
+
 
 
 ---
+
+<p align="center">
+  <a href="https://zalt.me/guides/vibe-coding">
+    <img alt="Vibe Coding with Confidence, a handbook by Mahmoud Zalt" src="https://zalt.me/images/books/vibe-coding-cover.png" height="440"/>
+  </a>
+</p>
+
+<p align="center">
+  Plan, build, debug, harden, ship, operate, and scale.<br/>
+  👉 <a href="https://zalt.me/guides/vibe-coding"><b>Read it free →</b></a>
+</p>
+
+---
+
+
 
 # 🧠 Currently Building
 
@@ -68,6 +86,7 @@ Learn More [https://zalt.me/projects/ai-workforce-platform](https://zalt.me/proj
 [![Mahmoud Zalt profile views](https://u8views.com/api/v1/github/profiles/1983984/views/day-week-month-total-count.svg)](https://u8views.com/github/Mahmoudz)
 
 ---
+
 
 
 
